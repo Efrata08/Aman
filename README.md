@@ -1,4 +1,4 @@
-# Aman — Your Immigration Co-Pilot 🛡️
+# Aman — Your Immigration Co-Pilot 
 
 > *Aman* (أمان / አማን) means **safety and peace** in Urdu and Amharic. For 45 million immigrants navigating the US immigration system alone, that's exactly what's missing.
 
